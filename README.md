@@ -21,6 +21,7 @@ re
 seaborn
 scipy
 matplotlib
+datetime
 ```
 ## Installation:
 Python 3.6.5 or higher
