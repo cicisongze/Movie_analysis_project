@@ -35,7 +35,7 @@ Initially, we extracted movie data from three main movie resources websites, IMD
 ## Data Analysis:
 When analyzing the data, we first extract the [Season] attribute from [Release date], and then separate the strings in [Genre] to build a word cloud. Further, we convert the [Runtime] to minutes applying the datetime package, and convert values in other columns to its correct type. 
 
-Firstly, we yield the basic stats info as well as the pdf of numerical attributes, then by grouping them together, we get the relationship between each attributes. We also draw the best-fit lines, heatmap and and 3D-graph of these attributes. We found that, similar to our hypothesis, BoxOffice is positively related to budget, revenue, and 
+Firstly, we yield the basic stats info as well as the pdf of numerical attributes, then by grouping them together, we get the relationship between each attributes. We also draw the best-fit lines, heatmap and and 3D-graph of these attributes. We found that, similar to our hypothesis, BoxOffice is positively related to budget, revenue, and number of votes. We also go deep into the time series analysis. Interestly, we find that for all four attributes: budget, revenue, boxoffice and even runtime, while there's a small drop in 2016, we find an increasing trend overall. However, one thing out of our expectation is that the box office spread by seasons didn't vary a lot. There's indeed one movie with huge boxoffice bar in autumn, but we can consider this as an outlier.
 
 ## Instructions:
 
