@@ -1,0 +1,12 @@
+Packages needed:
+  requests
+  bs4 
+  BeautifulSoup
+  pandas
+  numpy
+  re
+  seaborn
+  scipy
+  matplotlib
+  datetime
+  mpl_toolkits
