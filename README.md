@@ -18,6 +18,9 @@ BeautifulSoup
 pandas
 numpy
 re
+seaborn
+scipy
+matplotlib
 ```
 ## Installation:
 Python 3.6.5 or higher
