@@ -39,8 +39,13 @@ Firstly, we yielded the basic stats info as well as the pdf of numerical attribu
 
 Secondly, we generated a Genre Word Cloud and a bar graph based on each genre's occurrence. Among all 20 different movie genres, we can tell from the graph that in the past 5 years, Drama films played a dominant role in film market regarding to its amount, which is almost 1.7 times than the next genre, which is Comedy. Furthermore, we created a correlation heatmap using data on Runtime, Budget, Revenue, BoxOffice, Rating, Votes, Year. From the heatmap, we noticed that there is a strong postive correlation between a film's BoxOffice and its Budget(around 0.73) and also the number of votes(around 0.76), as expected. However, we noticed that the correlation between Rating and BoxOffice is only around 0.41, which indicates that the rating does not have a great impact on a film's box office, and we also noticed that the correlation between Budget and Rating is only around 0.39, which implies that having a large amount of budget does not ensure the quality of a film. 
 
-## Instructions:
+Secondly, we generated a Genre Word Cloud and a bar graph based on each genre's occurrence. Among all 20 different movie genres, we can tell from the graph that in the past 5 years, Drama films played a dominant role in film market regarding to its amount, which is almost 1.7 times than the next genre, which is Comedy. Furthermore, we created a correlation heatmap using data on Runtime, Budget, Revenue, BoxOffice, Rating, Votes, Year. From the heatmap, we noticed that there is a strong postive correlation between a film's BoxOffice and its Budget(around 0.73) and also the number of votes(around 0.76), as expected. However, we noticed that the correlation between Rating and BoxOffice is only around 0.41, which indicates that the rating does not have a great impact on a film's box office, and we also noticed that the correlation between Budget and Rating is only around 0.39, which implies that having a large amount of budget does not ensure the quality of a film.
 
+Next, we generated a fancy 3D-plot,and once again we confirmed that budget is not necessarily bounded to rating, while a high rating score does not guranteen a good return in box-office.
+
+
+## Instructions:
+When running to the end of 'Data_Visualization', we implied a simple interface. Typing the specific year, genre, or score, you would find a list of recomended films.
 
 
 
