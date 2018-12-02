@@ -45,7 +45,7 @@ Next, we generated a fancy 3D-plot,and once again we confirmed that budget is no
 
 
 ## Instructions:
-When running to the end of 'Data_Visualization', we implied a simple interface. Typing the specific year, genre, or score, you would find a list of recomended films.
+Despite of all our graphing analysis, when running to the end of 'Data_Visualization', we implied a simple interface. Typing the specific year, genre, or score, you would find a list of recomended films. Clicking on the checkbox below, related graph will also be shown. 
 
 
 
