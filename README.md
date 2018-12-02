@@ -22,6 +22,8 @@ seaborn
 scipy
 matplotlib
 datetime
+mpl_toolkits
+
 ```
 ## Installation:
 Python 3.6.5 or higher
