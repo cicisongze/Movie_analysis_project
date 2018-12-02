@@ -17,5 +17,16 @@ bs4
 BeautifulSoup
 pandas
 numpy
+re
 ```
 ## Installation:
+Python 3.6.5 or higher
+(pip install dependences above)
+
+## Data Extraction & Pre-Processing:
+Initially, the movie data was extracted from several websites in a raw list, later transformed into a dictionary in prepare for the conversion to dataframe. After the conversion, the dataframes gathered from different sources will be merged to a single dataframe; all the attributes will be served as columns, and their labels and varibale type will be converted for the sake of convenience. At last, the dataframe will be saved as a csv for the later analysis.
+
+
+
+
+
